@@ -1,0 +1,11 @@
+[
+    "users":[
+      {
+          "id": 1,
+          "userName": "amir",
+          "email": "ssvs",
+          "password": "12345",
+          "conditional": "Aggre"
+      }
+    ]
+]
